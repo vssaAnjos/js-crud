@@ -1,5 +1,5 @@
-# Vuejs Crud
-Repositorio com crud localStorage e Vuejs
+# Crud Js
+Repositorio com crud simples de Javascript usando localStorage 
 
 ## Referencias
 [Material Design](https://material.io/resources/icons/?icon=check_circle_outline&style=baseline)
