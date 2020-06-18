@@ -1,11 +1,19 @@
 # Crud Js
 Repositorio com crud simples de Javascript usando localStorage 
 
+<<<<<<< HEAD
 Em: https://github.com/vssaAnjos/js-crud
+=======
+### Projeto:
+Tela de cadastro de treinos de academia.
+- Incluir treino
+- Retirar treino
+- Marcar como feito
+>>>>>>> 681df7c19a702634204c136fb75dace769b129dc
 
 ## Referencias
 [Material Design](https://material.io/resources/icons/?icon=check_circle_outline&style=baseline)
 
 [Boostrap 4](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
 
-[Vue JS](https://vuejs.org/)
+Vanilla Javascript
