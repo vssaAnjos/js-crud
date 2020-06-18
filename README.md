@@ -2,7 +2,7 @@
 Repositorio com crud simples de Javascript usando localStorage 
 
 Em: https://github.com/vssaAnjos/js-crud
-
+ 
 ### Projeto:
 Tela de cadastro de treinos de academia.
 - Incluir treino
